@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/../JSD项目/orderservice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../JSD项目/userservice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../JSD项目/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/item-service-dev.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/order-service-dev.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/user-service-dev.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zuul-dev.yml" charset="UTF-8" />
   </component>
 </project>
