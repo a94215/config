@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca153ae0-74eb-4c57-8b09-5a291af34b40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/item-service-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ca153ae0-74eb-4c57-8b09-5a291af34b40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../JSD项目/userservice/target/" />
     <ignored path="$PROJECT_DIR$/../JSD项目/orderservice/target/" />
@@ -24,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/user-service-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -180,7 +177,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2911000" />
+    <option name="totallyTimeSpent" value="2925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,10 +207,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.19189766" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.19189766" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.80810237" side_tool="true" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.80810237" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="14" sideWeight="0.49946696" weight="0.329718" />
@@ -362,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/user-service-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
