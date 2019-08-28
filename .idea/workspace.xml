@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca153ae0-74eb-4c57-8b09-5a291af34b40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/user-service-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ca153ae0-74eb-4c57-8b09-5a291af34b40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../JSD项目/userservice/target/" />
     <ignored path="$PROJECT_DIR$/../JSD项目/orderservice/target/" />
@@ -41,6 +38,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/item-service-dev.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/order-service-dev.yml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -176,7 +178,7 @@
       <workItem from="1566907857337" duration="186000" />
       <workItem from="1566908628586" duration="440000" />
       <workItem from="1566909097339" duration="1310000" />
-      <workItem from="1566955654357" duration="7000" />
+      <workItem from="1566955654357" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1566905229759</created>
@@ -220,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566909926384</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1566955684920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566955684920</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4868000" />
+    <option name="totallyTimeSpent" value="4949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,7 +246,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -438,15 +446,11 @@
     <entry file="file://$PROJECT_DIR$/src/orderservice.yml" />
     <entry file="file://$PROJECT_DIR$/src/userservice.yml" />
     <entry file="file://$PROJECT_DIR$/src/zuul.yml" />
-    <entry file="file://$PROJECT_DIR$/src/order-service-dev.yml">
+    <entry file="file://$PROJECT_DIR$/src/item-service-dev.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/user-service-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/order-service-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zuul-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -455,8 +459,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/item-service-dev.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/user-service-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
