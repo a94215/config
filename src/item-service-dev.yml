@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order-service
+    name: item-service
 eureka:
   client:
     service-url:
@@ -18,14 +18,14 @@ management:
 
 ---
 spring:
-  profiles: order1
+  profiles: item1
 
 server:
-  port: 8201
+  port: 8001
 
 ---
 spring:
-  profiles: order2
+  profiles: item2
 
 server:
-  port: 8202
+  port: 8002
